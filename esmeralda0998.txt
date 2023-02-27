@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Mi primera pagina web</title>
+        <meta charset="UTF-8">
+        <link rel="StyleSheet" href="estilo.css" type="text/css">
+    </head>
+    <body>
+        <h1>Esmeralda Vega Hernandez</h1>
+        <div align="center">
+        <img src="wendy.jpg" width="150px" alt="figura geometrica">
+        <h2>
+            Mi nombre es Wendy Esmeralda Vega Hernandez<br />
+            Naci el 29 de septiembre del 1998 y tengo la edad de 21 años<br />
+            Soy de la comunidad de Ampliación Buenavista<br />
+             Mi familia esta integrada por 5 mi mamá , mi papá y mis 2 hermanos y yo.
+        </h2>
+        <table border="1">
+             <caption>Curiosidades</caption>
+            <tr >
+                <th >
+                    <a href="uthh.html" >Por que estudie en la UTHH</a>
+                </th>
+                 <th  >
+                    <a href="carrera_TI.html" >Por que eligi la carrera de TI</a>
+                </th>
+                <th >
+                    <a href="gustos.html">Mis gustos</a>
+                </th>
+                <th >
+                    <a href="futuro.html">Como me veo dentro de 7 años
+                    </a>
+                </th>
+		<th >
+                    <a href="Tienda_proyecto.php">Proyecto
+                    </a>
+                </th>
+            </tr>
+        </table>
+        </ div>
+    </body>
+</html>
